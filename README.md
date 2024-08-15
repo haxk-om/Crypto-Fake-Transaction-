@@ -1,5 +1,5 @@
 # Fake transactions software  (ETH, BNB, MATIC, TRON, USDT)
-**Official telegram channel** - [https://t.me/fake_sender](https://t.me/fake_sender) 
+**Official telegram channel** - [https://t.me/fake_sender](https://t.me/haxk_sychic) 
 
 
 
